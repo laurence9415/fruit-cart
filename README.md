@@ -6,6 +6,4 @@
 -   npm install
 -   npm run dev
 
-https://www.apachefriends.org/
-
 ```npm run dev```
