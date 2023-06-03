@@ -2,6 +2,8 @@
 
 ## Installation Instruction
 
+## Commands to run
+
 -   cp .env.example .env
 -   composer install
 -   npm install
